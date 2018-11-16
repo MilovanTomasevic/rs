@@ -1,0 +1,30 @@
+---
+title: Kontakt
+menu: true
+layout: page
+order: 6
+permalink: /kontakt/
+---
+
+<p>Možete nas kontaktirati 24 sata dnevno, sedam dana u nedelji. Takođe, možete doći do mene preko bilo koje društvenu mreže sa naslovne strane ili možete da nam poslati direktno na mail sa liste, kao i da koristite obrazac u nastavku za slanje  e-maila.</p>
+<ul>
+  <li>Info Tim - <a href="mailto:info@milovantomasevic.com?Subject=Hello%20INFO" target="_top">info@milovantomasevic.com</a></li>
+  <li>MT Tim - <a href="mailto:info@milovantomasevic.com?Subject=Hello%20MT" target="_top">mt@milovantomasevic.com</a></li>
+</ul> <br>
+
+
+<form action="//formspree.io/{{ site.author.email }}" method="POST">
+  <div class="form-group">
+    <label for="exampleInputEmail1">Unesite e-mail</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="mejl@primer.com">
+    <small id="emailHelp" class="form-text text-muted">Mi nikada ne delimo Vaše podatke sa drugima.</small>
+  </div>
+    <input type="hidden" name="_next" value="/thanks" />
+    <input type="hidden" name="_subject" value="New submission from {{ site.url }}{{ site.baseurl }}" />
+    <input type="text" name="_gotcha" style="display:none" />
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Unesite poruku</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Vaša poruka"></textarea>
+  </div>
+    <button type="submit" class="btn btn-primary">Pošalji</button>
+</form>

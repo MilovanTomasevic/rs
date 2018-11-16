@@ -1,0 +1,18 @@
+template = "template.html"
+
+author = "[Milovan Tomašević](https://www.milovantomasevic.com/resume/)"
+affiliation = "[Fakulteta za informacijske študije v Novem mestu (FIŠ)](https://www.fis.unm.si/en/)</br>![:scale 15%](fis.png)</br> [HPC centar]()"
+
+
+"tech/Python.md"
+  title = "[Programski jezik Python](https://www.milovantomasevic.com/courses/)"
+  subtitle = "Delavnica FIŠ"
+
+"tech/git.md"
+  title = "[Git](https://www.milovantomasevic.com/courses/)"
+  subtitle = "Delavnica FIŠ"
+
+"tech/python_napredni.md"
+  title = "[Napredni Python](https://www.milovantomasevic.com/courses/)"
+  subtitle = "Delavnica FIŠ"
+
