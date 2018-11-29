@@ -16,7 +16,7 @@ name: sadrzaj
 name: zastoFis
 class: center, middle
 
-# Zašto baš FIŠ?
+# Zašto baš FIŠ? 
 
 ---
 layout: true
@@ -25,7 +25,7 @@ layout: true
 
 ---
 
-## Studije na FIŠ
+## Studije na FIŠ 
 
 .lcol.small[
 
