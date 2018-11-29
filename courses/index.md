@@ -13,7 +13,7 @@ U ovom delu su programski jezici kao i metodologije. Pored toga, postoje razne p
 Želim Vam puno uspeha tokom učenja.
 
 
-## Python Programming Trainig
+## Programiranje
 - Sistemi za kontrolu verzija 
   - [Git](/tech/git.html){:target="_blank"}{:.heading.flip-title} --- Osnovni nivo.
 
@@ -26,4 +26,12 @@ U ovom delu su programski jezici kao i metodologije. Pored toga, postoje razne p
 
 ## PhD prezentacija
 
-[Adaptivni model za upravljanje lancima snabdevanja u malim i srednjim preduzećima](../projects/PhD-MT/index.html){:target="_blank"}
+- [Prezentacija na FIŠ-u](/courses/fis/PhDfis.html){:target="_blank"}{:.heading.flip-title} --- PC & Mobile view.
+- [Odbrana doktorske disertacije na FTN - orginal](/courses/PhD-MT/index.html){:target="_blank"}{:.heading.flip-title} --- PC view.
+
+
+
+## Budi student FIŠ-a
+- Prezentacija prikazuje zašto uspešno izvršavamo obaveze svih 10 godina !
+	- [Budi student FIŠ-a](/courses/fis/fis.html){:target="_blank"}{:.heading.flip-title} --- PC & Mobile view.
+

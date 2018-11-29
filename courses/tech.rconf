@@ -1,7 +1,7 @@
 template = "template.html"
 
-author = "[Milovan Tomašević](https://www.milovantomasevic.com/resume/)"
-affiliation = "[Fakulteta za informacijske študije v Novem mestu (FIŠ)](https://www.fis.unm.si/en/)</br>![:scale 15%](fis.png)</br> [HPC centar]()"
+author = "[dr. Milovan Tomašević](https://www.milovantomasevic.com/resume/)"
+affiliation = "[Fakulteta za informacijske študije v Novem mestu (FIŠ)](https://www.fis.unm.si/en/)</br>![:scale 10%](fis.png)</br> [HPC centar]()</br> [wwww: milovan.tomasevic.fis.unm.si](http://milovan.tomasevic.fis.unm.si)</br> [mail: milovan.tomasevic@fis.unm.si](mailto:milovan.tomasevic@fis.unm.si)"
 
 
 "tech/Python.md"

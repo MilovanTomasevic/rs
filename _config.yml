@@ -263,6 +263,7 @@ exclude:
   - .sass-cache
   - courses/base_slides.md
   - courses/tech/*.md
+  - courses/fis/*.md
 include:
   - LICENSE.md
 
