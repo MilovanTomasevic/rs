@@ -6,14 +6,13 @@ order: 6
 permalink: /kontakt/
 ---
 
-<p>Možete nas kontaktirati 24 sata dnevno, sedam dana u nedelji. Takođe, možete doći do mene preko bilo koje društvenu mreže sa naslovne strane ili možete da nam poslati direktno na mail sa liste, kao i da koristite obrazac u nastavku za slanje  e-maila.</p>
-<ul>
-  <li>Info Tim - <a href="mailto:info@milovantomasevic.com?Subject=Hello%20INFO" target="_top">info@milovantomasevic.com</a></li>
-  <li>MT Tim - <a href="mailto:info@milovantomasevic.com?Subject=Hello%20MT" target="_top">mt@milovantomasevic.com</a></li>
-</ul> <br>
+<p>Možete nas kontaktirati 24 sata dnevno, sedam dana u nedelji. Takođe, možete doći do mene preko bilo koje društvenu mreže sa naslovne strane ili da koristite formu u nastavku za slanje e-maila.</p>
 
-<form action="mailto:{{ site.author.email }}?Subject=Zahtev%20za%20pitanje" method="post" enctype="text/plain">
-  <div class="form-group">
+
+<form action="//formspree.io/info@milovantomasevic.com?Subject=Zahtev%20za%20upis%20na%20FIŠ"
+      method="POST">
+    <input type="hidden" name="MTrs" value="Kontakt mt.rs" />
+    <div class="form-group">
     <label for="exampleInputEmail1">Unesite ime</label>
     <input type="text" name="Name" class="form-control" placeholder="Puno ime i prezime">
   </div>
@@ -40,8 +39,8 @@ permalink: /kontakt/
   </div>
   <div class="form-group">
     <label for="exampleFormControlTextarea1">Unesite poruku</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Vaša poruka"></textarea>
-  </div>
+   <textarea class="form-control" type="text" name="poruka"  rows="3" placeholder="Vaša poruka"></textarea>
+   </div>
   <div class="form-group">
       <label for="exampleFormControlSelect1">Urgentno (između 1 i 5)</label>
       <select class="form-control" type="text" name="Urgent" id="exampleFormControlSelect1">
@@ -52,6 +51,9 @@ permalink: /kontakt/
         <option>5</option>
       </select>
     </div>
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks" />
+    <input type="hidden" name="_subject" value="New submission from {{ site.url }}{{ site.baseurl }}" />
+    <input type="text" name="_gotcha" style="display:none" />
     <button type="submit" class="btn btn-primary">Pošalji</button>
     <button type="reset" class="btn btn-primary">Resetuj</button>
 </form>
