@@ -8,8 +8,7 @@ title: Impresum
 : Milovan Tomašević
 
  **Adresa**
-: Ljubljanska cesta 31A 
-: 8000 Novo mesto
+: 1000 Ljubljana
 : Slovenija
 
  **E-mail**
