@@ -15,16 +15,8 @@ Slika 1: Pogled na sajt iz perspktive računara
 Slika 2: Pogled na sajt iz perspktive telefona
 {:.figure}
 
-
-Sada, ukoliko Vam se dopada opis i prikazane slike možete videti [demo verziju sajta][demo12]{:target="_blank"} a ukoliko ovaj sajt nije Vaš izbor, možete nastavi istraživanje, jer je sledeći sajt, možda, baš ono što tražite.
-
-
 Nastavite na [Blog čiji meni identifikuje vašu kretnju kroz sajt]{:.heading.flip-title}
 {:.read-more}
-
-**NAPOMENA**: <br>U svakom trenutku možete videti [kompletnu listu demo websajtova]{:target="_blank"}{:.heading.flip-title} sa kraćim opisom.
-{:.message}
-
 
 Ukoliko ste završili odabir websajta, Vi možete nastaviti sa čitanjem **trećeg - poglednjeg koraka** - [Finalni razvoj websajta]{:.heading.flip-title}
 {:.read-more}

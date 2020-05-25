@@ -15,21 +15,13 @@ Slika 1: Pogled na sajt iz perspktive računara
 Slika 2: Pogled na sajt iz perspktive telefona
 {:.figure}
 
-
-Sada, ukoliko Vam se dopada opis i prikazane slike možete videti [demo verziju sajta][demo5]{:target="_blank"} a ukoliko ovaj sajt nije Vaš izbor, možete nastavi istraživanje, jer je sledeći sajt, možda, baš ono što tražite.
-
-
-Nastavite na [Sajt sa licno predstavljanje sa animacijom]{:.heading.flip-title}
+Nastavite na [Blog za licno predstavljanje sa animacijom]{:.heading.flip-title}
 {:.read-more}
-
-**NAPOMENA**: <br>U svakom trenutku možete videti [kompletnu listu demo websajtova]{:target="_blank"}{:.heading.flip-title} sa kraćim opisom.
-{:.message}
-
 
 Ukoliko ste završili odabir websajta, Vi možete nastaviti sa čitanjem **trećeg - poglednjeg koraka** - [Finalni razvoj websajta]{:.heading.flip-title}
 {:.read-more}
 
 [demo5]: https://www.demo.milovantomasevic.rs/demo5
-[Sajt sa licno predstavljanje sa animacijom]: sajt-za-licno-predstavljanje-sa-animacijom.md
+[Blog za licno predstavljanje sa animacijom]: blog-za-licno-predstavljanje-sa-animacijom.md
 [kompletnu listu demo websajtova]: https://www.demo.milovantomasevic.rs/
 [Finalni razvoj websajta]: ../finalni-razvoj-websajta.md

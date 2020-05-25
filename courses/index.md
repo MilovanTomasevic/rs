@@ -8,9 +8,9 @@ order: 3
 permalink: /kursevi/
 
 ---
-U ovom delu su programski jezici kao i metodologije. Pored toga, postoje razne prezentacije kao i obuke koje će služiti u daljem obrazovanju. Takođe pruža posebnu obuku koja se fokusira na IT sektor kao i na HPC.
+U ovom delu su programski jezici kao i metodologije. Pored toga, postoje razne prezentacije kao i obuke koje će služiti u daljem obrazovanju. Ostale prezentacije moguće je videti na [milovantomasevic.com](https://milovantomasevic.com/courses/).
 
-Želim Vam puno uspeha tokom učenja.
+Želim vam puno uspeha tokom učenja. 
 
 
 ## Programiranje
@@ -40,6 +40,5 @@ U ovom delu su programski jezici kao i metodologije. Pored toga, postoje razne p
 
 
 ## Budi student FIŠ-a
-- Prezentacija prikazuje zašto uspešno izvršavamo obaveze svih 10 godina !
-	- [Budi student FIŠ-a](/courses/fis/fis.html){:target="_blank"}{:.heading.flip-title} --- PC & Mobile view.
+- [Budi student FIŠ-a](/courses/fis/fis.html){:target="_blank"}{:.heading.flip-title} --- PC & Mobile view.
 {:.related-posts.faded}

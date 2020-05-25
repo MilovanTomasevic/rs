@@ -24,44 +24,43 @@ Sam proces izrade web stranice se sastoji od **TRI** korara:
 
 ## DRUGI KORAK je odabrir websajta
 
-* [Sajt --- kratak opis]
+### Primeri:
 
+- [Blog sa naslovnim slikama]{:.heading.flip-title}
 
-[Demo 1]{:target="_blank"} --- [Blog sa naslovnim slikama]{:.heading.flip-title}
+- [Blog sa animiranom naslovnom slikom]{:.heading.flip-title}
 
-[Demo 2]{:target="_blank"} --- [Blog sa animiranom naslovnom slikom]{:.heading.flip-title}
+- [Blog ciji su postovi u obliku kartica]{:.heading.flip-title}
 
-[Demo 3]{:target="_blank"} --- [Blog ciji su postovi u obliku kartica]{:.heading.flip-title}
+- [Blog sa animacijama]{:.heading.flip-title}
 
-[Demo 4]{:target="_blank"} --- [Blog sa animacijama]{:.heading.flip-title}
+- [Blog sa projektima i postovima]{:.heading.flip-title}
 
-[Demo 5]{:target="_blank"} --- [Blog sa projektima i postovima]{:.heading.flip-title}
+- [Blog za licno predstavljanje sa animacijom]{:.heading.flip-title}
 
-[Demo 6]{:target="_blank"} --- [Sajt za licno predstavljanje sa animacijom]{:.heading.flip-title}
+- [Blog sa velikim pregledom postova]{:.heading.flip-title}
 
-[Demo 7]{:target="_blank"} --- [Blog sa velikim pregledom postova]{:.heading.flip-title}
+- [Blog + licno predstavljanje]{:.heading.flip-title}
 
-[Demo 8]{:target="_blank"} --- [Blog + licno predstavljanje]{:.heading.flip-title}
+- [Blog + Auto-pozdrav na sajtu]{:.heading.flip-title}
 
-[Demo 9]{:target="_blank"} --- [Blog + Auto-pozdrav na sajtu]{:.heading.flip-title}
+- [Blog sa obojenim postovima]{:.heading.flip-title}
 
-[Demo 10]{:target="_blank"} --- [Blog sa obojenim postovima]{:.heading.flip-title}
+- [Predstavljanje preko društvenih mreža]{:.heading.flip-title}
 
-[Demo 11]{:target="_blank"} --- [Predstavljanje preko društvenih mreža]{:.heading.flip-title}
+- [Retro CV]{:.heading.flip-title}
 
-[Demo 12]{:target="_blank"} --- [Retro CV]{:.heading.flip-title}
+- [Blog čiji meni identifikuje vašu kretnju kroz sajt]{:.heading.flip-title}
 
-[Demo 13]{:target="_blank"} --- [Blog čiji meni identifikuje vašu kretnju kroz sajt]{:.heading.flip-title}
+- [Blog sa elegantnim dizajnom]{:.heading.flip-title}
 
-[Demo 14]{:target="_blank"} --- [Blog sa elegantnim dizajnom]{:.heading.flip-title}
+- [Jednostavan i pregledan blog]{:.heading.flip-title}
 
-[Demo 15]{:target="_blank"} --- [Jednostavan i pregledan blog]{:.heading.flip-title}
+- [Minimalni blog]{:.heading.flip-title}
 
-[Demo 16]{:target="_blank"} --- [Minimalni blog]{:.heading.flip-title}
+- [Stranica - CV prezentacija]{:.heading.flip-title}
 
-[Demo 17]{:target="_blank"} --- [Stranica - CV prezentacija]{:.heading.flip-title}
-
-[Demo 18]{:target="_blank"} --- [Jednostavan a specifičan blog]{:.heading.flip-title}
+- [Jednostavan a specifičan blog]{:.heading.flip-title}
 
 {:.related-posts.faded}
 
@@ -72,41 +71,17 @@ Sam proces izrade web stranice se sastoji od **TRI** korara:
 * [Kolika je cena web sajta?]{:.heading.flip-title} ---  To je jedno od najkomplikovanijih pitanja.
 {:.related-posts.faded}
 
-
-
-
-
 [Prikupljanje informacija]: prikupljanje-informacija-za-izgradnju-websajta.md
 [Karakteristike jednog web sajta]: karakteristike-jednog-websajta.md
 [Planiranje]: planiranje-izrade-websajta.md
 [Dizajn websajta]: dizajn-websajta.md
-
-[Demo 1]:https://www.demo.milovantomasevic.rs/demo1/
-[Demo 2]:https://www.demo.milovantomasevic.rs/demo2/
-[Demo 3]:https://www.demo.milovantomasevic.rs/demo3/
-[Demo 4]:https://www.demo.milovantomasevic.rs/demo4/
-[Demo 5]:https://www.demo.milovantomasevic.rs/demo5/
-[Demo 6]:https://www.demo.milovantomasevic.rs/demo6/
-[Demo 7]:https://www.demo.milovantomasevic.rs/demo7/
-[Demo 8]:https://www.demo.milovantomasevic.rs/demo8/
-[Demo 9]:https://www.demo.milovantomasevic.rs/demo9/
-[Demo 10]:https://www.demo.milovantomasevic.rs/demo10/
-[Demo 11]:https://www.demo.milovantomasevic.rs/demo11/
-[Demo 12]:https://www.demo.milovantomasevic.rs/demo12/
-[Demo 13]:https://www.demo.milovantomasevic.rs/demo13/
-[Demo 14]:https://www.demo.milovantomasevic.rs/demo14/
-[Demo 15]:https://www.demo.milovantomasevic.rs/demo15/
-[Demo 16]:https://www.demo.milovantomasevic.rs/demo16/
-[Demo 17]:https://www.demo.milovantomasevic.rs/demo17/
-[Demo 18]:https://www.demo.milovantomasevic.rs/demo18/
-
 
 [Blog sa naslovnim slikama]: /sajtovi/blog-sa-naslovnim-slikama.md
 [Blog sa animiranom naslovnom slikom]: /sajtovi/blog-sa-animiranom-naslovnom-slikom.md
 [Blog ciji su postovi u obliku kartica]: /sajtovi/blog-ciji-su-postovi-u-obliku-kartica.md
 [Blog sa animacijama]: /sajtovi/blog-sa-animacijama.md
 [Blog sa projektima i postovima]: /sajtovi/blog-sa-projektima-i-postovima.md
-[Sajt za licno predstavljanje sa animacijom]: /sajtovi/sajt-sa-licno-predstavljanje-sa-animacijom.md
+[Blog za licno predstavljanje sa animacijom]: /sajtovi/blog-sa-licno-predstavljanje-sa-animacijom.md
 [Blog sa velikim pregledom postova]: /sajtovi/blog-sa-velikim-pregledom-postova.md
 [Blog + licno predstavljanje]: /sajtovi/blog-licno-predstavljanje.md
 [Blog + Auto-pozdrav na sajtu]: /sajtovi/blog-auto-pozdrav-na-sajtu.md

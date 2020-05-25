@@ -5,14 +5,14 @@ title: Impresum
 
 
  **Ime i prezime**
-: Milovan Tomašević
+: {{ site.author.name }}
 
  **Adresa**
 : 1000 Ljubljana
 : Slovenija
 
  **E-mail**
-: mt@milovantomasevic.com
+: {{ site.author.email }}
 
 
 

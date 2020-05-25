@@ -9,51 +9,21 @@ permalink: /kontakt/
 <p>Možete nas kontaktirati 24 sata dnevno, sedam dana u nedelji. Takođe, možete doći do mene preko bilo koje društvenu mreže sa naslovne strane ili da koristite formu u nastavku za slanje e-maila.</p>
 
 
-<form action="//formspree.io/info@milovantomasevic.com?Subject=Zahtev%20za%20upis%20na%20FIŠ"
+<form action="//formspree.io/{{ site.author.email }}"
       method="POST">
     <input type="hidden" name="MTrs" value="Kontakt mt.rs" />
-    <div class="form-group">
-    <label for="exampleInputEmail1">Unesite ime</label>
-    <input type="text" name="Name" class="form-control" placeholder="Puno ime i prezime">
-  </div>
-  <label for="exampleInputEmail1">Unesite grad i državu</label>
-  <div class="form-row">
-    <div class="col-7">
-      <input type="text" name="City" class="form-control" placeholder="Grad">
-    </div>
-    <div class="col">
-      <input type="text" name="State" class="form-control" placeholder="Država">
-    </div>
-    <div class="col">
-      <input type="text" name="Zip" class="form-control" placeholder="Kod">
-    </div>
-  </div>
-    <div class="form-group">
-    <label for="exampleInputEmail1">Unesite godine</label>
-    <input type="number" name="Age" class="form-control"  placeholder="Godine">
-  </div>
   <div class="form-group">
-    <label for="exampleInputEmail1">Unesite e-mail</label>
+    <label for="exampleInputEmail1">Kontakt</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="mejl@primer.com">
-    <small id="emailHelp" class="form-text text-muted">Mi nikada ne delimo Vaše podatke sa drugima.</small>
+    <small id="emailHelp" class="form-text text-muted"><sup>*</sup>Vaši podaci se <u>ne</u> dele sa drugima.</small>
   </div>
   <div class="form-group">
     <label for="exampleFormControlTextarea1">Unesite poruku</label>
-   <textarea class="form-control" type="text" name="poruka"  rows="3" placeholder="Vaša poruka"></textarea>
+   <textarea class="form-control" type="text" name="poruka"  rows="5" placeholder="Vaša poruka"></textarea>
    </div>
-  <div class="form-group">
-      <label for="exampleFormControlSelect1">Urgentno (između 1 i 5)</label>
-      <select class="form-control" type="text" name="Urgent" id="exampleFormControlSelect1">
-        <option>1</option>
-        <option>2</option>
-        <option>3</option>
-        <option>4</option>
-        <option>5</option>
-      </select>
-    </div>
     <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks" />
     <input type="hidden" name="_subject" value="New submission from {{ site.url }}{{ site.baseurl }}" />
     <input type="text" name="_gotcha" style="display:none" />
     <button type="submit" class="btn btn-primary">Pošalji</button>
-    <button type="reset" class="btn btn-primary">Resetuj</button>
+    <button type="reset" class="btn btn-primary">Obriši</button>
 </form>

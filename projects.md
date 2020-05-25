@@ -1,9 +1,9 @@
 ---
 layout: projects
-title: Projects
+title: Projekti
 show_collection: projects
 description: >
-  The following context represents the timetable of Milovan Tomaševićs projects that he has been working during his successful career as a researcher. They represent all of Milovan Tomaševićs skills that he has learned and gained in his respected field.
+  Projekte možete videti i na [milovantomasevic.com](https://milovantomasevic.com/projects/).
 menu: true
 order: 4
 ---

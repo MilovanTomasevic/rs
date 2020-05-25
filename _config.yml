@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://www.milovantomasevic.rs/ #https://domain.tld 
+url:                   https://www.milovantomasevic.rs
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,14 +24,13 @@ title:                 Milovan Tomašević
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Milovan Tomašević se bavi izradom sajtova i softvera kao i drugih vidova marketinga potrebnih da biste unapredili vaše poslovanje kako u Srbiji tako i u inostranstvu.
+  Pored naučnoistračivačkog rada bavim se i razvojom poslovnih softvera i sajtova sa ciljem kreiranja novog proizvoda ili usluge koju će potrošači želeti.
 # A shorter description for the sidebar.
 tagline:               >
-   **Želite moderan, funkcionalan i koristan sajt? Unapredite internet poslovanje i digitalno prisustvo uz one koji razumeju proces pravljenja sajtova!**<br><br>
-   *Milovan Tomašević se bavi izradom sajtova i softvera kao i drugih vidova marketinga potrebnih da biste unapredili vaše poslovanje kako u Srbiji tako i u inostranstvu.*  
+  *Pored naučnoistračivačkog rada bavim se i razvojom poslovnih softvera i sajtova sa ciljem kreiranja novog proizvoda ili usluge koju će potrošači želeti.*
 
 # A list of keywords for your blog
-keywords:              [Milovan Tomasevic, kako napraviti sajt , kako napraviti web stranicu, moderan veb sajt, online prezentacije]
+keywords:              [Milovan Tomasevic, poslovni softver , poslovni sajt, online prezentacije]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -41,7 +40,7 @@ logo:                  /assets/icons/milovantomasevic.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Milovan Tomašević
-  email:               mt@milovantomasevic.com
+  email:               tomas.ftn.e2@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
