@@ -1,6 +1,8 @@
 ---
 cover: true
 image: /assets/img/MilovanTomasevic-8.jpeg
+description: >
+    Pored naučnoistračivačkog rada bavim se i razvojom poslovnih softvera i sajtova sa ciljem kreiranja novog proizvoda ili usluge koju će potrošači želeti.
 hide_description: true
 ---
 
